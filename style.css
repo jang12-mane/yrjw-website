@@ -221,8 +221,8 @@ html,body{
     color:#b5405f; font-weight:900; margin-bottom:20px;
 }
 #final-photo-frame{
-    width:min(78vw,300px);
-    height:min(78vw,300px);
+    width:min(82vw,320px);
+    height:min(82vw,320px);
     border-radius:20px;
     overflow:hidden;
     box-shadow:0 16px 32px rgba(180,60,90,0.3);
