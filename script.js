@@ -14,7 +14,7 @@ function getCtx(){
 // ▼▼▼ 원하는 mp3로 바꾸려면: 아래 파일명을 본인이 준비한 mp3 파일명으로 변경하고,
 //     이 html 파일과 "같은 폴더"에 그 mp3 파일을 넣어두면 됩니다.
 //     예) const CLICK_SOUND_FILE = 'my-click-sound.mp3';
-const CLICK_SOUND_FILE = 'leaf-crunch.mp3';
+const CLICK_SOUND_FILE = 'leaf-crunch2.mp3';
 const clickAudioTemplate = new Audio(CLICK_SOUND_FILE);
 const CORRECT_SOUND_FILE = 'clapping.mp3';
 const correctAudioTemplate = new Audio(CORRECT_SOUND_FILE);
